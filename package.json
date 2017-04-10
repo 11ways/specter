@@ -1,0 +1,12 @@
+{
+	"name": "specter",
+	"description": "Specter phantomjs wrapper",
+	"version": "0.1.0",
+	"dependencies": {
+		"protoblast" : "~0.4.0",
+		"phantom"    : "~4.0.2"
+	},
+	"engines": {
+		"node": ">=6.6.0"
+	}
+}
