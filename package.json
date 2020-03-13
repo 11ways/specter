@@ -1,12 +1,12 @@
 {
-	"name": "specter",
-	"description": "Specter phantomjs wrapper",
-	"version": "0.1.0",
+	"name": "@11ways/specter",
+	"description": "Browser wrapper",
+	"version": "0.1.1",
 	"dependencies": {
-		"protoblast" : "~0.4.0",
-		"phantom"    : "~4.0.2"
+		"protoblast"   : "~0.7.0",
+		"puppeteer"    : "~2.1.1"
 	},
 	"engines": {
-		"node": ">=6.6.0"
+		"node": ">=8.16.0"
 	}
 }
