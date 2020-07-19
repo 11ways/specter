@@ -9,6 +9,7 @@
 * Add `Crawler#parameterIsAllowed(parameter)` to see if a parameter can remain in a url
 * Add `Crawler#extensionIsAllowed(extension)` to see if the extension of a certain url is allowed to be crawled
 * Upgrade `puppeteer` to v5.2.0
+* Add `Crawler#addUrlCheck(fnc)` to add custom url checks per crawler instance
 
 ## 0.1.1 (2020-03-13)
 
