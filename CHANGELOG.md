@@ -11,6 +11,7 @@
 * Upgrade `puppeteer` to v5.2.0
 * Add `Crawler#addUrlCheck(fnc)` to add custom url checks per crawler instance
 * Add `Crawler#addForbiddenUrl(url)` to explicitly forbid certain paths
+* Add `Crawler#addCanonical(url)` & also mark them
 
 ## 0.1.1 (2020-03-13)
 
