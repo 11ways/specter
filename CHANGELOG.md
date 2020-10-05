@@ -1,4 +1,4 @@
-## 0.1.2 (WIP)
+## 0.1.2 (2020-10-05)
 
 * Add `Tab#screenshot()` to make a screenshot of the tab
 * Add `Tab#setCookie()` & `Tab#setCookies()` to set request cookies
@@ -12,6 +12,7 @@
 * Add `Crawler#addUrlCheck(fnc)` to add custom url checks per crawler instance
 * Add `Crawler#addForbiddenUrl(url)` to explicitly forbid certain paths
 * Add `Crawler#addCanonical(url)` & also mark them
+* Use `Browser#page_queue` for navigating tabs
 
 ## 0.1.1 (2020-03-13)
 
