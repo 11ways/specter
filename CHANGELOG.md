@@ -1,6 +1,7 @@
 ## 0.1.3 (WIP)
 
 * Disable the default tab navigation timeout of 30s
+* Fix timeouts being detected incorrectly
 
 ## 0.1.2 (2020-10-05)
 
